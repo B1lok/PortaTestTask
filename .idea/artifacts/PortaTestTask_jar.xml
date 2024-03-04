@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PortaTestTask:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PortaTestTask_jar</output-path>
+    <root id="archive" name="PortaTestTask.jar">
+      <element id="module-output" name="PortaTestTask" />
+    </root>
+  </artifact>
+</component>
