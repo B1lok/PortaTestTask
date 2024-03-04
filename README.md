@@ -1,4 +1,4 @@
-# Technical task for "Become A Developer 2024" internship
+# Technical task for "Become A Developer 2024" Internship
 
 ## Running
 To run this application execute:
